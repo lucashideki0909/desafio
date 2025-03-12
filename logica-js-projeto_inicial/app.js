@@ -13,7 +13,7 @@ function factorialize(num) {
   console.log(resultado);
 
 
-let dolares = 1;
+let dolares = 100;
 function convertorDolar(dolares) {
     let valorReais = dolares * 4.8;
     return valorReais;
